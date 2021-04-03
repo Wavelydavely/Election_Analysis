@@ -20,7 +20,7 @@ with open(file_to_load) as election_data:
     # Print header row
     headers = next(file_reader)
     print(headers)
-    
+
     
 
 # Using the with statement open the file as a text file.
