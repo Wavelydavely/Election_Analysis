@@ -21,8 +21,6 @@ with open(file_to_load) as election_data:
     headers = next(file_reader)
     print(headers)
 
-    
-
 # Using the with statement open the file as a text file.
 with open(file_to_save, "w") as txt_file:
     # Write some data to the file.
