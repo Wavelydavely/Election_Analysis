@@ -1,13 +1,10 @@
 # Election_Analysis
-Analysis of Election
 
-# Overview of Election Audit: Explain the purpose of this election audit analysis.
+## Overview of Election Audit: 
 
-Colorado election officials wanted to upgrade their methodology of counting ballots. Start with three county prototype. Detail our findings
+	Colorado election officials are interested in upgrading their methodology of counting ballots. They currently use Excel to calculate election results, but they are interested in an automated process which could be interchangeably used for elections from the local to federal level. We will begin with a congressional precinct which spans three counties. These are our findings:
 
-# Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.blob
-
-  - How many votes were cast in this congressional election? Total Votes: 369,711
+  - A total of 369,711 votes were cast. Excel would have told us this just as easily as our code with Python, but we have a much greater degree of flexibility with how we can use a breakdown of these votes.
   - Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct. Jefferson: 10.5% (38,855)
 Denver: 82.8% (306,055)
 Arapahoe: 6.7% (24,801)  
