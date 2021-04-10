@@ -1,4 +1,4 @@
-# Election_Analysis
+# Election Analysis
 
 ## Overview of Election Audit: 
 
@@ -14,12 +14,12 @@ Disgraced Republican incumbant Charles Casper Stockham struggled to convince vot
 
 Diana DeGette was able to unify progressives and moderate Democrats and muster up a whopping 73.8% of the vote with 272,892 ballots cast in her name.
 
-Libertarian Raymon Anthony Doane was the beneficiary of Stockham's many scandals, but voters were reluctant to overlook his eccentricities and his penchant for referring to himself as "the smartest man you've ever met" (his words). Somehow, he was still overjoyed to receive 11,606 votes, or 3.1% of the total votes.
+Libertarian Raymon Anthony Doane was the beneficiary of Stockham's many scandals, but voters were reluctant to overlook his eccentricities and his penchant for referring to himself as "the smartest man you've ever met" (his words). Somehow, he still seemed overjoyed to receive 11,606 votes, or 3.1% of the total votes.
 
 
 Diana DeGette handily won this election with 73.8% of the votes cast or 272,892 total votes. Her 'big tent' campaign resonated with a wide spectrum of voters already on the left, as well as many moderate Republicans who could no longer stomach the incumbent's disregard of public indecency law.
 
-# Election-Audit Summary:
+### Election-Audit Summary:
 
 This code is designed to be applicable for the tallying votes of candidates, as well as vote counts for particular regions. We could easily modify the code to incorporate any additional data like precinct and non-identifying voter information. As different electoral systems gain popularity, we could also modify the code to interpret electoral results for systems like ranked-choice voting or approval voting.
 
