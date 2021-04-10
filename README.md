@@ -5,7 +5,7 @@ Analysis of Election
 
 Colorado election officials wanted to upgrade their methodology of counting ballots. Start with three county prototype. Detail our findings
 
-# Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
+# Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.blob
 
   - How many votes were cast in this congressional election? Total Votes: 369,711
   - Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct. Jefferson: 10.5% (38,855)
