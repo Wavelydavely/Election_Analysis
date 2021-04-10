@@ -2,7 +2,7 @@
 
 ## Overview of Election Audit: 
 
-	Colorado election officials are interested in upgrading their methodology of counting ballots. They currently use Excel to calculate election results, but they are interested in an automated process which could be interchangeably used for elections from the local to federal level. We will begin with a congressional precinct which spans three counties. These are our findings:
+	### Colorado election officials are interested in upgrading their methodology of counting ballots. They currently use Excel to calculate election results, but they are interested in an automated process which could be interchangeably used for elections from the local to federal level. We will begin with a congressional precinct which spans three counties. These are our findings:
 
   - A total of 369,711 votes were cast. Excel would have told us this just as easily as our code with Python, but we have a much greater degree of flexibility with how we can use a breakdown of these votes.
   - Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct. Jefferson: 10.5% (38,855)
